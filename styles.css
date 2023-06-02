@@ -10,9 +10,27 @@
     justify-content: right;
     position: sticky;
     display: flex;
-    color:aquamarine;
 }
 
 .navbar_item {
     padding: 0 10px;
+    color:aquamarine;
+}
+
+.external_link {
+    color: rgb(127, 127, 226)
+}
+
+h1 {
+    color:rgb(222, 222, 222);
+    font-size: 2rem;
+}
+h2 {
+    color:rgb(222, 222, 222);
+    font-size: 1.5rem;
+}
+
+p {
+    color:rgb(222, 222, 222);
+    font-size: 1rem;
 }
